@@ -1,11 +1,11 @@
 ---
 
-# resource-of-front >>>>>>
+### resource-of-front >>>>>>
 
 ---
 
 * 前端资源汇总
-    * [前端资源收录1](https://github.com/poetries/mywiki)
+    * [Github上整理的日常发现的好资源](https://github.com/poetries/mywiki)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
