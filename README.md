@@ -16,6 +16,7 @@
 * Vue
     * [使用vue.js模仿小米官网](https://github.com/wendaosanshou/mi-by-vue)
     * [RandoUI-一个简洁优雅的Vue组件库](https://github.com/luojilab/radon-ui)
+    * [Vue.js入门](http://igeekbar.com/igeekbar/post/109.htm)
 * React
     * [Ant Design - 一个 UI 设计语言](http://ant.design/)
 
