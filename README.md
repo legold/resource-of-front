@@ -16,7 +16,8 @@
 * Vue
     * [使用vue.js模仿小米官网](https://github.com/wendaosanshou/mi-by-vue)
     * [RandoUI-一个简洁优雅的Vue组件库](https://github.com/luojilab/radon-ui)
-    * [Vue.js入门](http://igeekbar.com/igeekbar/post/109.htm)
+    * [Vue.js入门-解释不错](http://igeekbar.com/igeekbar/post/109.htm)
+    * [Vue.js 快速入门](http://www.imooc.com/article/2688)
     * [vue-sui-demo](https://github.com/eteplus/vue-sui-demo/)
     * [vue问券调查](https://github.com/pramper/Demos/tree/master/Vue-Demos/Questionnaire)
     * [vue-cli + webpack 多页面实例配置方法](http://lanchenglv.com/article/2016/0826/vue-cli_webpack_multi-page.html)
