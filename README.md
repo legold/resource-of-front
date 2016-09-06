@@ -26,6 +26,8 @@
     * [vueJS资源](http://web.jobbole.com/?s=vue)
     * [vue官网教程](http://cn.vuejs.org/guide/overview.html)
     * [vue-github-explore](https://github-e.leanapp.cn/user/SidKwok/repos)
+    * [vue-carbon又一个vue的ui组件库--不错的博客](http://gold.xitu.io/entry/57cd28375bbb500074f91bcf)
+    * [上篇文章的博主](http://www.myronliu.com/)
 * React
     * [Ant Design - 一个 UI 设计语言](http://ant.design/)
 
