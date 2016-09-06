@@ -33,6 +33,7 @@
     * [30 天了解 30 种新技术系列（前／后端）](http://gold.xitu.io/entry/57c928160e3dd90063e3267d)
     * [Div+css学习笔记总结篇](http://www.jianshu.com/p/8ebebb84b1c1)
     * [javascript学习思维导图](http://weber.pub/javascript%E5%AD%A6%E4%B9%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/104.html)
+    * [Git设置及GitHub的使用](http://www.cnblogs.com/peterzd/archive/2012/04/22/2465230.html)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
@@ -44,6 +45,8 @@
 * 前端路由
     * [简易的前端路由实现](https://segmentfault.com/a/1190000006740604)
     * 
+* Hexo
+    * [hexo折腾记](http://gold.xitu.io/post/57ce675b816dfa00541a87f2)
 
 
 
