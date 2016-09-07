@@ -50,6 +50,10 @@
 * Hexo
     * [hexo折腾记](http://gold.xitu.io/post/57ce675b816dfa00541a87f2)
     * [教你如何创建个人博客](http://gold.xitu.io/entry/57cc12de0e3dd90063f6926d)
+    * [有哪些好看的Hexo主题](http://www.zhihu.com/question/24422335)
+    * [http://luuman.github.io/](http://luuman.github.io/)
+    * [http://ursocute.github.io/](http://ursocute.github.io/)
+    * [http://qinyuanpei.com/](http://qinyuanpei.com/)
 
 
 
