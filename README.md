@@ -41,6 +41,8 @@
     * [Git设置及GitHub的使用](http://www.cnblogs.com/peterzd/archive/2012/04/22/2465230.html)
     * [几个秒杀PPT的高（zhe）大(teng)上(ren)的幻灯工具](http://www.jianshu.com/p/09a3bbb8b362)
     * [JavaScript-总结常用代码书写规范](https://segmentfault.com/a/1190000006835021)
+    * [JavaScript装逼指南](https://segmentfault.com/a/1190000000514581)
+    * [如何做到 jQuery-free？](http://www.ruanyifeng.com/blog/2013/05/jquery-free.html)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
@@ -62,6 +64,9 @@
     * [http://luuman.github.io/](http://luuman.github.io/)
     * [http://ursocute.github.io/](http://ursocute.github.io/)
     * [http://qinyuanpei.com/](http://qinyuanpei.com/)
+    * [hexo博客干货--踩坑](http://tengj.top/categories/hexo/)
+    * [http://www.zipperary.com/](http://www.zipperary.com/)
+    * [使用Hexo搭建博客(四),博客的部件和插件--添加RSS订阅和多说评论功能](http://www.jianshu.com/p/739bf1305e66)
 
 
 
@@ -70,6 +75,11 @@
 
 * rem
     * [rem初步布局实践](https://segmentfault.com/a/1190000006839117)
+
+* Git
+    * [Git详解之一 Git起步-git系列](http://www.open-open.com/lib/view/open1328069609436.html)
+    * [coding配置SSH攻略](https://coding.net/help/doc/git/ssh-key.html)
+    * [git干货系列：（一）我是小白，我想要搭建git仓库](http://www.jianshu.com/p/1d5e97222cad)
 
 
 
