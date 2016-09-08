@@ -6,6 +6,9 @@
 
 * 前端资源汇总
     * [Github上整理的日常发现的好资源](https://github.com/poetries/mywiki)
+    * [国内类github代码托管平台](http://caibaojian.com/git.html)
+    * [Vim - 适合自己的，才是最好的](http://www.open-open.com/news/view/12292ee)
+    * [100+ 超全的web开发工具和资源----超全啊！](https://xituqu.com/170.html)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
@@ -36,14 +39,19 @@
     * [Div+css学习笔记总结篇](http://www.jianshu.com/p/8ebebb84b1c1)
     * [javascript学习思维导图](http://weber.pub/javascript%E5%AD%A6%E4%B9%A0%E6%80%9D%E7%BB%B4%E5%AF%BC%E5%9B%BE/104.html)
     * [Git设置及GitHub的使用](http://www.cnblogs.com/peterzd/archive/2012/04/22/2465230.html)
+    * [几个秒杀PPT的高（zhe）大(teng)上(ren)的幻灯工具](http://www.jianshu.com/p/09a3bbb8b362)
+    * [JavaScript-总结常用代码书写规范](https://segmentfault.com/a/1190000006835021)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
 * Markdown
     * [Cmd Markdown简明语法手册](https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown#cmd-markdown-简明语法手册)
+    * [markdown学习路径](http://www.jianshu.com/p/124ae0efaa71)
+    * [Markdown，你只需要掌握这几个-cmd语法](https://www.zybuluo.com/AntLog/note/63228)
 * 前端工程化
     * [Vue ES6 Jade Scss Webpack Gulp](http://www.jeffjade.com/2016/05/08/106-vue-es6-jade-scss-webpack-gulp/)
     * [总结ES6的常用特性-不错](http://luckykun.com/work/2016-05-10/es6-feature.html)
+    * [基于Gulp的前端自动化工程搭建-很详细踩坑](http://mrzhang123.github.io/2016/09/07/gulpUse/)
 * 前端路由
     * [简易的前端路由实现](https://segmentfault.com/a/1190000006740604)
     * 
@@ -54,6 +62,14 @@
     * [http://luuman.github.io/](http://luuman.github.io/)
     * [http://ursocute.github.io/](http://ursocute.github.io/)
     * [http://qinyuanpei.com/](http://qinyuanpei.com/)
+
+
+
+* ES6
+    * [ES6简书资源](http://www.jianshu.com/search?q=ES6&page=1&type=notes)
+
+* rem
+    * [rem初步布局实践](https://segmentfault.com/a/1190000006839117)
 
 
 
