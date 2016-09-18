@@ -10,6 +10,7 @@
     * [Vim - 适合自己的，才是最好的](http://www.open-open.com/news/view/12292ee)
     * [100+ 超全的web开发工具和资源----超全啊！](https://xituqu.com/170.html)
     * [2015年前端开发技术栈及开发工具？--列举的很有用](https://www.zhihu.com/question/33179506)
+    * [jQuery插件库](http://www.jq22.com/)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
