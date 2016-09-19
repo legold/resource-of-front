@@ -11,6 +11,7 @@
     * [100+ 超全的web开发工具和资源----超全啊！](https://xituqu.com/170.html)
     * [2015年前端开发技术栈及开发工具？--列举的很有用](https://www.zhihu.com/question/33179506)
     * [jQuery插件库](http://www.jq22.com/)
+    * [前端js公共库](http://blog.gimhoy.com/archives/aliyun-js.html)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
@@ -82,6 +83,7 @@
     * [Git详解之一 Git起步-git系列](http://www.open-open.com/lib/view/open1328069609436.html)
     * [coding配置SSH攻略](https://coding.net/help/doc/git/ssh-key.html)
     * [git干货系列：（一）我是小白，我想要搭建git仓库](http://www.jianshu.com/p/1d5e97222cad)
+    * [从0开始学习GitHub系列-stormzhang](http://gold.xitu.io/entry/57de3e547db2a24eb1b8b19a)
 
 
 
