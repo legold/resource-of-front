@@ -48,6 +48,7 @@
     * [如何做到 jQuery-free？](http://www.ruanyifeng.com/blog/2013/05/jquery-free.html)
     * [前端技术 博客文章、书籍 积累](https://segmentfault.com/a/1190000004988551)
     * [JavaScript 中创建对象的 7 种模式](http://gold.xitu.io/entry/57e767a02e958a00543d9f1c)
+    * [JavaScript 操作 DOM 的那些坑](http://web.jobbole.com/88099/)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
