@@ -86,6 +86,7 @@
     * [coding配置SSH攻略](https://coding.net/help/doc/git/ssh-key.html)
     * [git干货系列：（一）我是小白，我想要搭建git仓库](http://www.jianshu.com/p/1d5e97222cad)
     * [从0开始学习GitHub系列-stormzhang](http://gold.xitu.io/entry/57de3e547db2a24eb1b8b19a)
+    * [手把手叫你一台电脑配置两个Git账户](http://m.blog.csdn.net/article/details?id=52694629)
 
 
 
