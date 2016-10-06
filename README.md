@@ -29,6 +29,7 @@
     * [vue-cli + webpack 多页面实例配置方法](http://lanchenglv.com/article/2016/0826/vue-cli_webpack_multi-page.html)
     * [使用Vue快速开发单页应用－主体结构](https://segmentfault.com/a/1190000006711743)
     * [**Vue.js60分钟快速入门**](http://mp.weixin.qq.com/s?__biz=MzAxODE2MjM1MA==&mid=2651551140&idx=1&sn=5b791228d7978a837bb83063cf6e07d6&scene=0#wechat_redirect)
+    * [Vue.js——60分钟组件快速入门（上篇）](http://web.jobbole.com/87707/)
     * [vueJS资源](http://web.jobbole.com/?s=vue)
     * [vue官网教程](http://cn.vuejs.org/guide/overview.html)
     * [vue-github-explore](https://github-e.leanapp.cn/user/SidKwok/repos)
