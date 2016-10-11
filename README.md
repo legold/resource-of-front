@@ -12,6 +12,7 @@
     * [2015年前端开发技术栈及开发工具？--列举的很有用](https://www.zhihu.com/question/33179506)
     * [jQuery插件库](http://www.jq22.com/)
     * [前端js公共库](http://blog.gimhoy.com/archives/aliyun-js.html)
+    * [animate.css](https://daneden.github.io/animate.css/)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
