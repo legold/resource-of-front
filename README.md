@@ -53,6 +53,7 @@
     * [JavaScript 操作 DOM 的那些坑](http://web.jobbole.com/88099/)
     * [大前端js](http://www.daqianduan.com/front/javascript)
     * [纯css制作各种图形](https://segmentfault.com/a/1190000002780453)
+    * [js闯关记](http://gold.xitu.io/post/57fe3db0816dfa0056d7d713?utm_source=gold_browser_extension)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
