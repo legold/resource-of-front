@@ -14,6 +14,7 @@
     * [前端js公共库](http://blog.gimhoy.com/archives/aliyun-js.html)
     * [animate.css](https://daneden.github.io/animate.css/)
     * [前端开发知识结构](https://github.com/JacksonTian/fks)
+    * [我终于弄懂了各种前端build工具](https://www.sdk.cn/news/5412?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
