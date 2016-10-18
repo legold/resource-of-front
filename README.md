@@ -16,6 +16,7 @@
     * [前端开发知识结构](https://github.com/JacksonTian/fks)
     * [我终于弄懂了各种前端build工具](https://www.sdk.cn/news/5412?hmsr=toutiao.io&utm_medium=toutiao.io&utm_source=toutiao.io)
     * [js前端开发群-看云-上面的资源](http://www.kancloud.cn/jikeytang/qq/81141)
+    * [使用yarn 制作一个webpack + react 种子](http://www.jackpu.com/shi-yong-yarn-zhi-zuo-ge-webpack-react-chong-zi/)
 
 * [看程序员是如何把自动化做到极致的](http://blog.jobbole.com/100744/)  
 * 前后端分离
