@@ -59,6 +59,7 @@
     * [纯css制作各种图形](https://segmentfault.com/a/1190000002780453)
     * [js闯关记](http://gold.xitu.io/post/57fe3db0816dfa0056d7d713?utm_source=gold_browser_extension)
     * [Javascript 面向对象编程（一）：封装-阮一峰](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
+    * [阮一峰老师的javascript教程](http://www.ruanyifeng.com/blog/javascript/)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
