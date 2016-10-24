@@ -60,6 +60,10 @@
     * [js闯关记](http://gold.xitu.io/post/57fe3db0816dfa0056d7d713?utm_source=gold_browser_extension)
     * [Javascript 面向对象编程（一）：封装-阮一峰](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
     * [阮一峰老师的javascript教程](http://www.ruanyifeng.com/blog/javascript/)
+* JS面向对象
+    * [JS面向对象的程序设计](http://www.cnblogs.com/gaojun/archive/2013/10/24/3386552.html)
+    * [js面向对象之常见创建对象的几种方式(工厂模式、构造函数模式、原型模式)](http://www.jb51.net/article/74549.htm)
+    * [js面向对象的模式](https://www.baidu.com/s?wd=js面向对象的集中模式&rsv_spt=1&rsv_iqid=0xaa69a48f00053600&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&oq=js面向对象&rsv_t=168bV593hyjefS7PlYxh6UYR%2BDxBcvWkTY0G4I2t55Z6YxslJxQziuvv5%2FMtx7Q5GnZa&rsv_pq=ec7424de0005f963&inputT=16174&rsv_sug3=42&rsv_sug1=37&rsv_sug7=100&bs=js面向对象)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
