@@ -65,6 +65,8 @@
     * [JS面向对象的程序设计](http://www.cnblogs.com/gaojun/archive/2013/10/24/3386552.html)
     * [js面向对象之常见创建对象的几种方式(工厂模式、构造函数模式、原型模式)](http://www.jb51.net/article/74549.htm)
     * [js面向对象的模式](https://www.baidu.com/s?wd=js面向对象的集中模式&rsv_spt=1&rsv_iqid=0xaa69a48f00053600&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&rqlang=cn&tn=baiduhome_pg&rsv_enter=1&oq=js面向对象&rsv_t=168bV593hyjefS7PlYxh6UYR%2BDxBcvWkTY0G4I2t55Z6YxslJxQziuvv5%2FMtx7Q5GnZa&rsv_pq=ec7424de0005f963&inputT=16174&rsv_sug3=42&rsv_sug1=37&rsv_sug7=100&bs=js面向对象)
+* [JS-this]
+    * [JavaScript进阶系列—this 的工作原理](http://mp.weixin.qq.com/s?__biz=MzA4MjYyOTQ0Mg==&mid=2649688461&idx=2&sn=e48a38ccbfe2dfa234137620d88afe9d&chksm=87996fa0b0eee6b60cbbef5accc6ff83aa64c590d75c911a12b791f88b59df308c976e147721&mpshare=1&scene=1&srcid=1020DTB0zO5ScywptFPTfJpJ#rd)
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
