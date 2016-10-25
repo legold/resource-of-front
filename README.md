@@ -60,6 +60,7 @@
     * [js闯关记](http://gold.xitu.io/post/57fe3db0816dfa0056d7d713?utm_source=gold_browser_extension)
     * [Javascript 面向对象编程（一）：封装-阮一峰](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
     * [阮一峰老师的javascript教程](http://www.ruanyifeng.com/blog/javascript/)
+    * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
 * JS面向对象
     * [JS面向对象基础讲解(工厂模式、构造函数模式、原型模式、混合模式、动态原型模式)--很不错啊](http://www.jb51.net/article/53823.htm)
     * [JS面向对象的程序设计](http://www.cnblogs.com/gaojun/archive/2013/10/24/3386552.html)
