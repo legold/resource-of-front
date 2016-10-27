@@ -5,6 +5,7 @@
 ---
 
 * 前端资源汇总
+    * [前端教程&开发模块化/规范化/工程化/优化&工具/调试&值得关注的博客/Git&面试-资源汇总](https://segmentfault.com/a/1190000007062464)
     * [Github上整理的日常发现的好资源](https://github.com/poetries/mywiki)
     * [国内类github代码托管平台](http://caibaojian.com/git.html)
     * [Vim - 适合自己的，才是最好的](http://www.open-open.com/news/view/12292ee)
@@ -61,6 +62,7 @@
     * [Javascript 面向对象编程（一）：封装-阮一峰](http://www.ruanyifeng.com/blog/2010/05/object-oriented_javascript_encapsulation.html)
     * [阮一峰老师的javascript教程](http://www.ruanyifeng.com/blog/javascript/)
     * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
+    * [JS速成路线图--基础知识-通俗易懂](http://alwayslove.me/timeline/)
 * JS面向对象
     * [JS面向对象基础讲解(工厂模式、构造函数模式、原型模式、混合模式、动态原型模式)--很不错啊](http://www.jb51.net/article/53823.htm)
     * [JS面向对象的程序设计](http://www.cnblogs.com/gaojun/archive/2013/10/24/3386552.html)
@@ -97,6 +99,7 @@
 
 * ES6
     * [ES6简书资源](http://www.jianshu.com/search?q=ES6&page=1&type=notes)
+    * [大白话，讲编程之《ES6系列连载》汇总，再也不用翻历史消息了](http://mp.weixin.qq.com/s?__biz=MzA3MDg1NzQyNA==&mid=2649654163&idx=1&sn=3c4868a0f2314a947b30730bcef5ac92)
 
 * rem
     * [rem初步布局实践](https://segmentfault.com/a/1190000006839117)
