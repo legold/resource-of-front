@@ -112,6 +112,9 @@
     * [手把手教你一台电脑配置两个Git账户](http://m.blog.csdn.net/article/details?id=52694629)
     * [Git常用命令清单笔记--不错，详细](http://gold.xitu.io/entry/5809dbc42f301e005c2f27d9)
 
+* 测试兼容性
+    * [caniuse](http://caniuse.com/)
+
 
 
 
