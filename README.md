@@ -104,6 +104,7 @@
 * ES6
     * [ES6简书资源](http://www.jianshu.com/search?q=ES6&page=1&type=notes)
     * [大白话，讲编程之《ES6系列连载》汇总，再也不用翻历史消息了](http://mp.weixin.qq.com/s?__biz=MzA3MDg1NzQyNA==&mid=2649654163&idx=1&sn=3c4868a0f2314a947b30730bcef5ac92)
+    * [深入浅出ES6（九）：学习Babel和Broccoli，马上就用ES6](http://www.infoq.com/cn/articles/es6-in-depth-babel-and-broccoli?utm_source=articles_about_ES6-In-Depth&utm_medium=link&utm_campaign=ES6-In-Depth)
 
 * rem
     * [rem初步布局实践](https://segmentfault.com/a/1190000006839117)
