@@ -41,6 +41,8 @@
     * [vue-github-explore](https://github-e.leanapp.cn/user/SidKwok/repos)
     * [vue-carbon又一个vue的ui组件库--不错的博客](http://gold.xitu.io/entry/57cd28375bbb500074f91bcf)
     * [上篇文章的博主](http://www.myronliu.com/)
+    * [从零构建vue2 + vue-router + vuex 开发环境到入门](https://github.com/lzxb/vue2-demo)
+    * [前端开发之走进Vue.js](https://segmentfault.com/a/1190000007328936)
 * React
     * [Ant Design - 一个 UI 设计语言](http://ant.design/)
 
@@ -63,6 +65,7 @@
     * [阮一峰老师的javascript教程](http://www.ruanyifeng.com/blog/javascript/)
     * [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/#intro)
     * [JS速成路线图--基础知识-通俗易懂](http://alwayslove.me/timeline/)
+    * [JavaScript学习笔记--很易懂经典详细](http://ghmagical.com/article/page/id/NPX077QhOfd7)
 * JS面向对象
     * [JS面向对象基础讲解(工厂模式、构造函数模式、原型模式、混合模式、动态原型模式)--很不错啊](http://www.jb51.net/article/53823.htm)
     * [JS面向对象的程序设计](http://www.cnblogs.com/gaojun/archive/2013/10/24/3386552.html)
@@ -73,6 +76,7 @@
 * canvas
     * [canvas学习之API整理笔记](http://luckykun.com/work/2016-09-01/canvas-study01.html)
     * [手把手教你画熊本熊](http://blog.ilanyy.com/html5/draw-kumamon-by-canvas.html)
+    * [canvas好玩的网站背景](http://www.w3cfuns.com/notes/14456/79830d7a25acccc4352254472b9fbffe.html)
 * Markdown
     * [Cmd Markdown简明语法手册](https://www.zybuluo.com/mdeditor?url=https%3A%2F%2Fwww.zybuluo.com%2Fstatic%2Feditor%2Fmd-help.markdown#cmd-markdown-简明语法手册)
     * [markdown学习路径](http://www.jianshu.com/p/124ae0efaa71)
