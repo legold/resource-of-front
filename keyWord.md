@@ -5,5 +5,5 @@
 * localStorage sessionStorage cookie 实现前端存储的用法与思路
 * 前后端耦合性--前后端完全解耦(开发，代码，部署，纯页面改版)
 * 数据传输协议 -文本协议(json,xml)  二进制
-
+* mock.js 前后端分离开发数据模拟，假数据
 
