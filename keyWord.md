@@ -40,7 +40,74 @@
    16. 前端的安全性问题有哪些？
    17. JS实现继承有哪几种方法？
    18. display有哪些属性值？
-   
+   
+* [EventUtil--跨浏览器的事件对象](http://www.cnblogs.com/hykun/p/EventUtil.html)
+* 什么是DOM2级方法，IE方法，DOM0级方法？
+* js事件机制？内存泄漏？js的垃圾回收机制？生命周期函数？
+* XSS跨站脚本攻击，HTML注入？
+* js事件冒泡？事件捕获？
+* [DOM2级事件](http://blog.csdn.net/zhu1988renhui/article/details/7945025)规定了事件流得三个阶段：事件捕获阶段，处于目标阶段，事件冒泡阶段。
+* 事件处理程序：响应某个事件的函数就叫做事件处理程序，或称为事件侦听器。事件处理程序都是以"on"开头的。例如onclick、onload事件。
+* try{}catch(e){}事件异常处理
+* [HTML事件处理程序](http://blog.csdn.net/zhu1988renhui/article/details/7945025)：（直接在标签内添加事件）（缺点：时差问题,HTML与JS代码紧密耦合）
+* DOM0级事件处理程序-DOM2级事件处理程序-IE事件处理程序 ---- 总结封装为一个**跨浏览的事件处理程序-EventUtil**
+* 类：封装，继承，多态。
+* [JavaScript中实现继承得几种方式](http://lib.csdn.net/snippet/18/47126)
+* js继承：用一个空函数来作为中转完成原型链的继承 [JavaScript的9种继承实现方式归纳](http://www.jb51.net/article/66266.htm)
+* 把原型指向一个实例对象就能完成继承吗？
+```js
+//http://blog.csdn.net/ladycode/article/details/51282407
+function Person(){  
+  this.name="bob";    
+}  
+Person.prototype.eat=function(){  
+  return "food";  
+}  
+function Student(){}  
+Student.prototype=new Person();//将Person实例赋给Student的原型对象  Person的实例对象拥有一个指向它得原型对象得指针 [[prototype]]，在chrome中是可见得，`__proto__`，但在大多数浏览器中是不可见得。这个指针也指向了一个内存地址，把拥有这个指针得实例对象赋值给子类得原型对象后，自然子类得原型对象也获取了这个`__proto__`指针，指向了父类得原型对象。
+var one=new Student();  
+one.name//bob  
+one.eat()//food,Student的实例能访问到Person对象的实例方法，也能访问到其原型属性中的方法
+```
+* 子类如果和父类共用一个原型对象，那么子类就无法扩展自己的属性了，因为子类和父类都指向了一个原型对象，其实就是一个内存地址，那么改变子类，父类也会改变，这样式很危险得。
+* 总结下构造函数、原型和实例的关系：每个构造函数都有一个原型对象，原型对象拥有一个指向构造函数的指针，而实例拥有一个指向原型对象的内部指针（这就是前面所提到的[[Prototype]]，即__proto__，要注意的是这个__proto__属性在chrome浏览器中是可以看到的，而在大部分浏览器是隐藏的！）
+* [原型对象的用途是为每个实例对象存储共享的方法和属性，它仅仅是一个普通对象而已。并且所有的实例是共享同一个原型对象，因此有别于实例方法或属性，原型对象仅有一份](http://www.2cto.com/kf/201506/407981.html)
+* [js私有作用域(function(){})(); 模仿块级作用域](http://blog.csdn.net/u013474104/article/details/44197513)
+* JavaScript中的事件委托
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
