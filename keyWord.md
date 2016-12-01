@@ -77,6 +77,78 @@ one.eat()//food,Student的实例能访问到Person对象的实例方法，也能
 * instanceof 运算符用来测试一个对象(实例对象或者原型对象)在其原型链中是否存在一个构造函数的 prototype 属性。
 * getPrototypeOf  isPrototypeOf hasOwnProperty
 * 改写原型对象得方式： Person.prototype.eat = function(){},这样不会改写。但是如果用一个字面量赋值给Person.prototype就会改写Person得原型对象为Object
+* javascript作用域，变量名提升 hoisting  函数名提升
+* [CSS3初体验之奇技淫巧](http://gold.xitu.io/post/583e97c961ff4b006b662f5e?utm_source=gold_browser_extension)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
