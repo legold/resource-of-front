@@ -6,6 +6,8 @@
 
 * 前端资源汇总
     * [前端教程&开发模块化/规范化/工程化/优化&工具/调试&值得关注的博客/Git&面试-资源汇总](https://segmentfault.com/a/1190000007062464)
+    * [Web前端从入门菜鸟到实践老司机所需要的资料与指南合集](https://segmentfault.com/a/1190000007611188)
+    * [前端涉及的所有知识体系](https://segmentfault.com/a/1190000004070468)
     * [Github上整理的日常发现的好资源](https://github.com/poetries/mywiki)
     * [国内类github代码托管平台](http://caibaojian.com/git.html)
     * [Vim - 适合自己的，才是最好的](http://www.open-open.com/news/view/12292ee)
