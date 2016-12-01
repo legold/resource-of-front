@@ -74,35 +74,9 @@ one.eat()//food,Student的实例能访问到Person对象的实例方法，也能
 * [原型对象的用途是为每个实例对象存储共享的方法和属性，它仅仅是一个普通对象而已。并且所有的实例是共享同一个原型对象，因此有别于实例方法或属性，原型对象仅有一份](http://www.2cto.com/kf/201506/407981.html)
 * [js私有作用域(function(){})(); 模仿块级作用域](http://blog.csdn.net/u013474104/article/details/44197513)
 * JavaScript中的事件委托
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+* instanceof 运算符用来测试一个对象(实例对象或者原型对象)在其原型链中是否存在一个构造函数的 prototype 属性。
+* getPrototypeOf  isPrototypeOf hasOwnProperty
+* 改写原型对象得方式： Person.prototype.eat = function(){},这样不会改写。但是如果用一个字面量赋值给Person.prototype就会改写Person得原型对象为Object
 
 
 
